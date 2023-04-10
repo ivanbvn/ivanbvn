@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ivan Bilvinas</h1>
-<h3 align="center">A passionate frontend developer from Argentina</h3>
+<h3 align="center">A passionate frontend developer from Buenos Aires, Argentina</h3>
 
 - 🌱 I’m currently interesting on learning **TypeScript, Next.js, Golang, PHP**
 
