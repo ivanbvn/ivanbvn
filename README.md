@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Ivan Bilvinas</h1>
 <h3 align="center">A passionate frontend developer from Buenos Aires, Argentina</h3>
 
-- 🌱 I’m currently interesting on learning **TypeScript, Next.js, Golang, PHP**
+- 🌱 I’m currently interesting on learning **TypeScript, Next.js and PHP**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
